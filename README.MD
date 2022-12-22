@@ -1,4 +1,4 @@
-#Esta é uma aplicação com node.js e express que simula transações financeiras
+# Simulador de transações financeiras (back end)
 >Clique no vídeo abaixo para saber como reutilizar e instalar
 
 [Vídeo](https://youtu.be/C9juIW9U4VE)
