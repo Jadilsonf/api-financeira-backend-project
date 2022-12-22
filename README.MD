@@ -1,3 +1,8 @@
+#Esta é uma aplicação com node.js e express que simula transações financeiras
+>Clique no vídeo abaixo para saber como reutilizar e instalar
+
+[Vídeo](https://youtu.be/C9juIW9U4VE)
+
 ### Requisitos
 
 - [x] Deve ser possível criar uma conta
