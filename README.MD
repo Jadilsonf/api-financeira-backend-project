@@ -1,5 +1,5 @@
 # Simulador de transações financeiras (back end)
->Clique no vídeo abaixo para saber como reutilizar e instalar
+>Clique no vídeo abaixo para saber como utilizar junto ao Insomnia e instalar
 
 [Vídeo](https://youtu.be/C9juIW9U4VE)
 
