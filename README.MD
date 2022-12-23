@@ -3,6 +3,11 @@
 
 [Vídeo](https://youtu.be/C9juIW9U4VE)
 
+Para rodar a aplicação:
+```sh
+npm install
+```
+
 ### Requisitos
 
 - [x] Deve ser possível criar uma conta
